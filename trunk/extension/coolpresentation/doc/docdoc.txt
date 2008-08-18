@@ -1,0 +1,31 @@
+This is a MS Powerpoint Import.
+
+PP XP / Win XPPP 2000 / Win XPPP 2003 / Win XP 
+
+Install extension as usual.
+Clean cache
+
+In PowerPoint install macro from the macro folder
+Go to:
+http://www.example.com/ezpublish-3.9.0/ezwebin_site_admin/coolpresentation/import
+
+Choose .zip
+Browse place
+wait
+enjoy.
+
+Live: http://www.bbbiotech.com/index.php/bbbiotech_en/en/presentations/corporate_presentations
+
+
+Credits:
+
+http://www.coolscreen.de
+http://www.stefan-spieler.de
+
+
+
+Third party:
+
+PhpConcept Library - Zip Module: Vincent
+PowerPoint Tools for the Radiologist
+OpenOffice.org extension: Bard
